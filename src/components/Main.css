@@ -1,0 +1,13 @@
+.main {
+  background: white;
+  padding: 10%;
+  margin: 50% auto;
+  max-width: 80%;
+  border-radius:3%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.main h1 {
+  font-size: 100%;
+  text-align: center;
+}
